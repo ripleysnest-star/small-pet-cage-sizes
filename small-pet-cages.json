@@ -1,0 +1,911 @@
+[
+ {
+  "id": "bucatstate-3-0-100",
+  "maker": "Bucatstate",
+  "model": "3.0 100",
+  "sold_for": [
+   "hamster",
+   "mouse"
+  ],
+  "width_cm": 100,
+  "depth_cm": 50,
+  "height_cm": 52,
+  "measurement_basis": "outside",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Maker states 1–2 cm manual-measurement error. Ventilation openings have no accepted numeric spacing here.",
+  "source_name": "Bucatstate manufacturer manual, product overview",
+  "source_url": null,
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "bucatstate-3-0-120",
+  "maker": "Bucatstate",
+  "model": "3.0 120",
+  "sold_for": [
+   "hamster",
+   "mouse"
+  ],
+  "width_cm": 120,
+  "depth_cm": 60,
+  "height_cm": 62,
+  "measurement_basis": "outside",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Maker states 1–2 cm manual-measurement error. Ventilation openings have no accepted numeric spacing here.",
+  "source_name": "Bucatstate manufacturer manual, product overview",
+  "source_url": null,
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-criceti-100",
+  "maker": "Ferplast",
+  "model": "Criceti 100",
+  "sold_for": [
+   "hamster"
+  ],
+  "width_cm": 95,
+  "depth_cm": 57,
+  "height_cm": 50,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Inside dimensions are not given; listed height may include a stand or multiple storeys.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/criceti-100",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-criceti-120",
+  "maker": "Ferplast",
+  "model": "Criceti 120",
+  "sold_for": [
+   "hamster",
+   "mouse"
+  ],
+  "width_cm": 119,
+  "depth_cm": 58,
+  "height_cm": 52,
+  "measurement_basis": "outside",
+  "bar_spacing_mm": 7,
+  "floor_levels": 3,
+  "notes": "Detailed characteristics state overall height 52 cm; the headline has also shown 53.5 cm. We use the explicit overall specification, not an average. Confirm the version with the seller.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/criceti-120",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-duna-multy",
+  "maker": "Ferplast",
+  "model": "Duna Multy",
+  "sold_for": [
+   "hamster",
+   "mouse"
+  ],
+  "width_cm": 71,
+  "depth_cm": 46,
+  "height_cm": 31.5,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Inside dimensions are not given; listed height may include a stand or multiple storeys.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/duna-multy",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-furat",
+  "maker": "Ferplast",
+  "model": "Furat",
+  "sold_for": [
+   "ferret"
+  ],
+  "width_cm": 78,
+  "depth_cm": 48,
+  "height_cm": 70,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Inside dimensions are not given; listed height may include a stand or multiple storeys.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/furat",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-furet-tower",
+  "maker": "Ferplast",
+  "model": "Furet Tower",
+  "sold_for": [
+   "ferret"
+  ],
+  "width_cm": 75,
+  "depth_cm": 80,
+  "height_cm": 161,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": 2,
+  "notes": "Inside dimensions are not given; listed height may include a stand or multiple storeys.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/furet-tower",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-furet-xl",
+  "maker": "Ferplast",
+  "model": "Furet XL",
+  "sold_for": [
+   "ferret"
+  ],
+  "width_cm": 80,
+  "depth_cm": 75,
+  "height_cm": 86.5,
+  "measurement_basis": "outside",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Inside dimensions are not given; listed height may include a stand or multiple storeys.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/furet-xl",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-hamsterville",
+  "maker": "Ferplast",
+  "model": "Hamsterville",
+  "sold_for": [
+   "hamster",
+   "mouse"
+  ],
+  "width_cm": 60,
+  "depth_cm": 34,
+  "height_cm": 49,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Inside dimensions are not given; listed height may include a stand or multiple storeys.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/hamsterville",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-jenny",
+  "maker": "Ferplast",
+  "model": "Jenny",
+  "sold_for": [
+   "rat",
+   "chinchilla"
+  ],
+  "width_cm": 80,
+  "depth_cm": 50,
+  "height_cm": 79.5,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": 3,
+  "notes": "Inside dimensions are not given; listed height may include a stand or multiple storeys.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/jenny",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-krolik-160",
+  "maker": "Ferplast",
+  "model": "Krolik 160",
+  "sold_for": [
+   "rabbit"
+  ],
+  "width_cm": 162,
+  "depth_cm": 60,
+  "height_cm": 50,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Inside dimensions are not given; listed height may include a stand or multiple storeys.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/krolik-160",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-krolik-200",
+  "maker": "Ferplast",
+  "model": "Krolik 200",
+  "sold_for": [
+   "rabbit"
+  ],
+  "width_cm": 205,
+  "depth_cm": 60,
+  "height_cm": 50,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Inside dimensions are not given; listed height may include a stand or multiple storeys.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/krolik-200",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-laura",
+  "maker": "Ferplast",
+  "model": "Laura",
+  "sold_for": [
+   "hamster"
+  ],
+  "width_cm": 46,
+  "depth_cm": 29.5,
+  "height_cm": 37.5,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": 2,
+  "notes": "Inside dimensions are not given; listed height may include a stand or multiple storeys.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/laura",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-mini-duna-hamster",
+  "maker": "Ferplast",
+  "model": "Mini Duna Hamster",
+  "sold_for": [
+   "hamster"
+  ],
+  "width_cm": 55,
+  "depth_cm": 39,
+  "height_cm": 27,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Inside dimensions are not given; listed height may include a stand or multiple storeys.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/mini-duna-hamster",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-olimpia",
+  "maker": "Ferplast",
+  "model": "Olimpia",
+  "sold_for": [
+   "hamster"
+  ],
+  "width_cm": 46,
+  "depth_cm": 29.5,
+  "height_cm": 54,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Inside dimensions are not given; listed height may include a stand or multiple storeys.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/olimpia",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "ferplast-ranch-100-restyling",
+  "maker": "Ferplast",
+  "model": "Ranch 100 Restyling",
+  "sold_for": [
+   "rabbit"
+  ],
+  "width_cm": 95,
+  "depth_cm": 64.5,
+  "height_cm": 84.5,
+  "measurement_basis": "outside",
+  "bar_spacing_mm": null,
+  "floor_levels": 2,
+  "notes": "Use detailed overall size including roof: 95 × 64.5 × 84.5 cm. Headline gives 94 × 64.5 × 84 cm. Ground floor is explicitly 88 × 58.5 cm; usable height per storey is not given.",
+  "source_name": "Ferplast",
+  "source_url": "https://www.ferplast.com/products/ranch-100",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "guinea-pig-cage-company-c-c-large-2x4",
+  "maker": "Guinea Pig Cage Company",
+  "model": "C&C Large 2x4",
+  "sold_for": [
+   "guinea pig"
+  ],
+  "width_cm": 142.24,
+  "depth_cm": 68.58,
+  "height_cm": 35.56,
+  "measurement_basis": "inside floor; panel height",
+  "bar_spacing_mm": null,
+  "floor_levels": 1,
+  "notes": "Width and depth are inside base; height is the 14-inch grid panel, not the 6-inch base-wall height. Check complete assembled height and openings.",
+  "source_name": "Guinea Pig Cage Company",
+  "source_url": "https://guineapigcagecompany.com/products/large-2x4-grids-cage",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "hagen-habitrail-cristal-62820",
+  "maker": "Hagen Habitrail",
+  "model": "Cristal 62820",
+  "sold_for": [
+   "hamster"
+  ],
+  "width_cm": 41,
+  "depth_cm": 25,
+  "height_cm": 24,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": "Base plus balcony with ramp",
+  "notes": "Maker page lists Cristal and Retreat together; this entry is Cristal 62820 only.",
+  "source_name": "Hagen Habitrail",
+  "source_url": "https://hagen.es/products/habitat-para-hamster-habitrail",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "kaytee-crittertrail-one-level-habitat",
+  "maker": "Kaytee",
+  "model": "CritterTrail One Level Habitat",
+  "sold_for": [
+   "hamster",
+   "gerbil",
+   "mouse"
+  ],
+  "width_cm": 50.8,
+  "depth_cm": 29.21,
+  "height_cm": 27.94,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": 1,
+  "notes": "Maker text conflicts: 6 mm wire spacing and .29 inch (7.366 mm). No single bar figure accepted; measure the actual gaps.",
+  "source_name": "Kaytee",
+  "source_url": "https://www.kaytee.com/all-products/small-animal/kaytee-crittertrail-one-level-habitat",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "midwest-critter-nation-161",
+  "maker": "MidWest",
+  "model": "Critter Nation 161",
+  "sold_for": [
+   "rat",
+   "chinchilla",
+   "ferret",
+   "degu"
+  ],
+  "width_cm": 91.44,
+  "depth_cm": 60.96,
+  "height_cm": 99.06,
+  "measurement_basis": "outside",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Stand is included in listed height. Usable inside height is not sourced, so a dimensional pass remains provisional. Bar spacing must be checked.",
+  "source_name": "Petco",
+  "source_url": "https://www.petco.com/product/midwest-critter-nation-single-unit-with-stand-small-animal-cage",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "midwest-critter-nation-162",
+  "maker": "MidWest",
+  "model": "Critter Nation 162",
+  "sold_for": [
+   "rat",
+   "chinchilla",
+   "ferret",
+   "degu"
+  ],
+  "width_cm": 91.44,
+  "depth_cm": 60.96,
+  "height_cm": 160.02,
+  "measurement_basis": "outside",
+  "bar_spacing_mm": 12.7,
+  "floor_levels": 2,
+  "notes": "Stand is included in listed height. Usable inside height is not sourced. Retailer lists half-inch bar gaps; compare those separately against the selected animal guide.",
+  "source_name": "Stateline Pet Supply",
+  "source_url": "https://www.statelinepetsupply.com/critter-nation-double-unit.html",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "midwest-ferret-nation-181",
+  "maker": "MidWest",
+  "model": "Ferret Nation 181",
+  "sold_for": [
+   "ferret",
+   "rat"
+  ],
+  "width_cm": 91.44,
+  "depth_cm": 63.5,
+  "height_cm": 97.79,
+  "measurement_basis": "outside",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Stand is included in listed height. Usable inside height is not sourced, so a dimensional pass remains provisional. Bar spacing must be checked.",
+  "source_name": "Petco",
+  "source_url": "https://www.petco.com/product/midwest-ferret-nation-single-unit-with-stand-ferret-cage",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "midwest-ferret-nation-182",
+  "maker": "MidWest",
+  "model": "Ferret Nation 182",
+  "sold_for": [
+   "ferret",
+   "rat"
+  ],
+  "width_cm": 91.44,
+  "depth_cm": 63.5,
+  "height_cm": 158.75,
+  "measurement_basis": "outside",
+  "bar_spacing_mm": null,
+  "floor_levels": 2,
+  "notes": "Stand is included in listed height. Usable inside height is not sourced, so a dimensional pass remains provisional. Bar spacing must be checked.",
+  "source_name": "Petco",
+  "source_url": "https://www.petco.com/product/midwest-ferret-nation-double-unit-with-stand-ferret-cage-36-l-x-25-w-x-625-h-1491890",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "niteangel-bigger-world-l",
+  "maker": "Niteangel",
+  "model": "Bigger World L",
+  "sold_for": [
+   "hamster",
+   "gerbil",
+   "degu",
+   "mouse"
+  ],
+  "width_cm": 119.888,
+  "depth_cm": 50.038,
+  "height_cm": 59.944,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Exact conversion from listed inches. Interior floor is not stated in the text; no deduction guessed.",
+  "source_name": "Niteangel",
+  "source_url": "https://www.niteangelpet.com/products/poplar-wooden-enclosure-for-syrian-and-dwarf-hamsters",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "niteangel-bigger-world-m",
+  "maker": "Niteangel",
+  "model": "Bigger World M",
+  "sold_for": [
+   "hamster",
+   "gerbil",
+   "degu",
+   "mouse"
+  ],
+  "width_cm": 100.076,
+  "depth_cm": 50.038,
+  "height_cm": 50.038,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Exact conversion from listed inches. Interior floor is not stated in the text; no deduction guessed.",
+  "source_name": "Niteangel",
+  "source_url": "https://www.niteangelpet.com/products/poplar-wooden-enclosure-for-syrian-and-dwarf-hamsters",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "niteangel-bigger-world-s",
+  "maker": "Niteangel",
+  "model": "Bigger World S",
+  "sold_for": [
+   "hamster",
+   "gerbil",
+   "degu",
+   "mouse"
+  ],
+  "width_cm": 80.01,
+  "depth_cm": 41.91,
+  "height_cm": 49.022,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Exact conversion from listed inches. Interior floor is not stated in the text; no deduction guessed.",
+  "source_name": "Niteangel",
+  "source_url": "https://www.niteangelpet.com/products/poplar-wooden-enclosure-for-syrian-and-dwarf-hamsters",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "omlet-hamster-cage",
+  "maker": "Omlet",
+  "model": "Hamster Cage",
+  "sold_for": [
+   "hamster"
+  ],
+  "width_cm": 88,
+  "depth_cm": 56,
+  "height_cm": 49,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Frame dimensions are listed separately as 87 × 57 × 86 cm. This entry is the enclosure, not the frame or playpen.",
+  "source_name": "Omlet",
+  "source_url": "https://www.omlet.co.uk/shop/hamsters_and_gerbils/hamster-cage/",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "pawhut-d2-0041-wooden-hamster-cage",
+  "maker": "PawHut",
+  "model": "D2-0041 Wooden Hamster Cage",
+  "sold_for": [
+   "hamster",
+   "gerbil"
+  ],
+  "width_cm": 115,
+  "depth_cm": 57,
+  "height_cm": 55,
+  "measurement_basis": "outside",
+  "bar_spacing_mm": null,
+  "floor_levels": 3,
+  "notes": "Maker storefront calls it two-level in highlights but three tiers in specifications; two platforms plus the base. Tray 112.5 × 56 cm is not a confirmed inside floor measurement.",
+  "source_name": "PawHut",
+  "source_url": "https://www.aosom.co.uk/item/pawhut-hamster-cage-58h-cm~D2-0041.html",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "pets-at-home-plastic-home-1",
+  "maker": "Pets at Home",
+  "model": "Plastic Home 1",
+  "sold_for": [
+   "hamster",
+   "mouse"
+  ],
+  "width_cm": 56,
+  "depth_cm": 47,
+  "height_cm": 37.5,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Listed as a hamster and mouse home. The seller’s group suggestion is not our minimum. Confirm the inside base.",
+  "source_name": "Pets at Home",
+  "source_url": "https://www.petsathome.com/product/pets-at-home-dwarf-hamster-and-mouse-plastic-home-grey-2/7152284p",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "pets-at-home-plastic-home-2",
+  "maker": "Pets at Home",
+  "model": "Plastic Home 2",
+  "sold_for": [
+   "hamster",
+   "mouse"
+  ],
+  "width_cm": 71,
+  "depth_cm": 46,
+  "height_cm": 31,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Listed as a hamster and mouse home. The seller’s group suggestion is not our minimum. Confirm the inside base.",
+  "source_name": "Pets at Home",
+  "source_url": "https://www.petsathome.com/product/pets-at-home-dwarf-hamster-and-mouse-plastic-home-grey-2/7152284p",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "pets-at-home-plastic-home-3",
+  "maker": "Pets at Home",
+  "model": "Plastic Home 3",
+  "sold_for": [
+   "hamster",
+   "mouse"
+  ],
+  "width_cm": 99,
+  "depth_cm": 51.5,
+  "height_cm": 36,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Listed as a hamster and mouse home. The seller’s group suggestion is not our minimum. Confirm the inside base.",
+  "source_name": "Pets at Home",
+  "source_url": "https://www.petsathome.com/product/pets-at-home-dwarf-hamster-and-mouse-plastic-home-grey-2/7152284p",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "prevue-universal-small-animal-home-528",
+  "maker": "Prevue",
+  "model": "Universal Small Animal Home 528",
+  "sold_for": [
+   "ferret",
+   "guinea pig",
+   "rabbit",
+   "chinchilla",
+   "hamster",
+   "degu"
+  ],
+  "width_cm": 82.55,
+  "depth_cm": 48.26,
+  "height_cm": 44.45,
+  "measurement_basis": "outside",
+  "bar_spacing_mm": 9.525,
+  "floor_levels": "Base plus one partial platform",
+  "notes": "A broad sold-for list is not evidence of meeting our minimum for each animal.",
+  "source_name": "Prevue",
+  "source_url": "https://prevuepet.com/product/822/small-animal-home-universal--cottage-528",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "rotastak-maxi-mansion",
+  "maker": "Rotastak",
+  "model": "Maxi Mansion",
+  "sold_for": [
+   "hamster",
+   "gerbil",
+   "mouse"
+  ],
+  "width_cm": 41,
+  "depth_cm": 26,
+  "height_cm": 41,
+  "measurement_basis": "outside",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Assembled bounding size includes connected parts, not continuous floor. Retailer fallback after no usable maker specification was found.",
+  "source_name": "Valupets",
+  "source_url": "https://www.valupets.com/rotastak-maxi-mansion.html",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-bristol",
+  "maker": "Savic",
+  "model": "Bristol",
+  "sold_for": [
+   "small animals (species not specified in accepted maker text)"
+  ],
+  "width_cm": 59.0,
+  "depth_cm": 38.0,
+  "height_cm": 37.0,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": 9.5,
+  "floor_levels": "Base plus a platform and ladder",
+  "notes": "Inside measurements are not stated. Measure the usable base before choosing.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/bristol-small-animal-cage",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-habitat-xl",
+  "maker": "Savic",
+  "model": "Habitat XL",
+  "sold_for": [
+   "gerbil"
+  ],
+  "width_cm": 70.0,
+  "depth_cm": 37.0,
+  "height_cm": 51.0,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": 9.5,
+  "floor_levels": "Tank base plus a wire platform",
+  "notes": "Inside measurements are not stated. Measure the usable base before choosing.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/habitat-xl-gerbil-cage-navy-blue",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-hamster-heaven-metro",
+  "maker": "Savic",
+  "model": "Hamster Heaven Metro",
+  "sold_for": [
+   "hamster"
+  ],
+  "width_cm": 80.0,
+  "depth_cm": 50.0,
+  "height_cm": 50.0,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": 9.5,
+  "floor_levels": "Base plus two raised platforms, not three full floors",
+  "notes": "Inside measurements are not stated. Measure the usable base before choosing.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/hamster-heaven-metro-navy-blue-small-animal-cage-with-tunnels",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-hamster-plaza-100",
+  "maker": "Savic",
+  "model": "Hamster Plaza 100",
+  "sold_for": [
+   "hamster",
+   "rat"
+  ],
+  "width_cm": 100.0,
+  "depth_cm": 50.0,
+  "height_cm": 50.0,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": 9.5,
+  "floor_levels": "Base plus a raised platform",
+  "notes": "Inside measurements are not stated. Measure the usable base before choosing.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/hamster-plaza-100-silver-large-flat-pack-hamster-cage",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-hamster-sky-metro",
+  "maker": "Savic",
+  "model": "Hamster Sky Metro",
+  "sold_for": [
+   "hamster"
+  ],
+  "width_cm": 80.0,
+  "depth_cm": 50.0,
+  "height_cm": 50.0,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": 9.5,
+  "floor_levels": null,
+  "notes": "Inside measurements are not stated. Measure the usable base before choosing.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/hamster-sky-metro-small-animal-cage-with-tunnels-navy-blue",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-martha",
+  "maker": "Savic",
+  "model": "Martha",
+  "sold_for": [
+   "small animals (species not specified in accepted maker text)"
+  ],
+  "width_cm": 46.5,
+  "depth_cm": 29.5,
+  "height_cm": 21.0,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": 9.5,
+  "floor_levels": null,
+  "notes": "Inside measurements are not stated. Measure the usable base before choosing.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/martha-small-animal-cage-white",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-martha-double",
+  "maker": "Savic",
+  "model": "Martha Double",
+  "sold_for": [
+   "small animals (species not specified in accepted maker text)"
+  ],
+  "width_cm": 46.5,
+  "depth_cm": 29.5,
+  "height_cm": 26.5,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": 9.5,
+  "floor_levels": "Base plus a platform and ladder",
+  "notes": "Inside measurements are not stated. Measure the usable base before choosing.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/martha-double-small-animal-cage-white",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-martha-triple",
+  "maker": "Savic",
+  "model": "Martha Triple",
+  "sold_for": [
+   "small animals (species not specified in accepted maker text)"
+  ],
+  "width_cm": 46.5,
+  "depth_cm": 29.5,
+  "height_cm": 34.0,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": 9.5,
+  "floor_levels": "Maker describes two levels; two platforms and ladders included",
+  "notes": "Inside measurements are not stated. Measure the usable base before choosing.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/martha-triple-small-animal-cage-white",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-royal-suite-100-double",
+  "maker": "Savic",
+  "model": "Royal Suite 100 Double",
+  "sold_for": [
+   "rat",
+   "ferret",
+   "chinchilla",
+   "degu"
+  ],
+  "width_cm": 100.0,
+  "depth_cm": 63.2,
+  "height_cm": 160.0,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": 13.0,
+  "floor_levels": 2,
+  "notes": "Listed dimensions are not confirmed usable inside space. Do not include a stand in usable height.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/royal-suite-100-double-navy-blue-spacious-small-animal-cage",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-royal-suite-100-single",
+  "maker": "Savic",
+  "model": "Royal Suite 100 Single",
+  "sold_for": [
+   "rat",
+   "ferret"
+  ],
+  "width_cm": 99.8,
+  "depth_cm": 63.2,
+  "height_cm": 99.0,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": 13.0,
+  "floor_levels": null,
+  "notes": "Listed dimensions are not confirmed usable inside space. Do not include a stand in usable height.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/royal-suite-100-single-unit-navy-blue-expandable-small-animal-cage",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-royal-suite-xl-single",
+  "maker": "Savic",
+  "model": "Royal Suite XL Single",
+  "sold_for": [
+   "rat",
+   "ferret"
+  ],
+  "width_cm": 115.0,
+  "depth_cm": 67.5,
+  "height_cm": 71.0,
+  "measurement_basis": "outside",
+  "bar_spacing_mm": null,
+  "floor_levels": null,
+  "notes": "Listed dimensions are not confirmed usable inside space. Do not include a stand in usable height.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/royal-suite-xl-single-unit-anthracite-expandable-small-animal-cage",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-suite-royale-xl",
+  "maker": "Savic",
+  "model": "Suite Royale XL",
+  "sold_for": [
+   "rat",
+   "ferret",
+   "chinchilla",
+   "degu"
+  ],
+  "width_cm": 115.0,
+  "depth_cm": 67.5,
+  "height_cm": 153.0,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": null,
+  "floor_levels": 2,
+  "notes": "Listed dimensions are not confirmed usable inside space. Do not include a stand in usable height.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/suite-royale-xl-super-de-luxe-small-animal-cage",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-zeno-2",
+  "maker": "Savic",
+  "model": "Zeno 2",
+  "sold_for": [
+   "small animals (species not specified in accepted maker text)"
+  ],
+  "width_cm": 80.0,
+  "depth_cm": 50.0,
+  "height_cm": 70.0,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": 9.5,
+  "floor_levels": null,
+  "notes": "Inside measurements are not stated. Measure the usable base before choosing.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/zeno-2-flack-pack-small-animal-cage-silver",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-zeno-3",
+  "maker": "Savic",
+  "model": "Zeno 3",
+  "sold_for": [
+   "small animals (species not specified in accepted maker text)"
+  ],
+  "width_cm": 100.0,
+  "depth_cm": 50.0,
+  "height_cm": 70.0,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": 9.5,
+  "floor_levels": null,
+  "notes": "Inside measurements are not stated. Measure the usable base before choosing.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/zeno-3-flack-pack-small-animal-cage-silver",
+  "date_read": "2026-11-12"
+ },
+ {
+  "id": "savic-zeno-3-empire",
+  "maker": "Savic",
+  "model": "Zeno 3 Empire",
+  "sold_for": [
+   "rat"
+  ],
+  "width_cm": 100.0,
+  "depth_cm": 50.0,
+  "height_cm": 116.0,
+  "measurement_basis": "not stated",
+  "bar_spacing_mm": 9.5,
+  "floor_levels": "Base plus three elevated platforms",
+  "notes": "Inside measurements are not stated. Measure the usable base before choosing.",
+  "source_name": "Savic",
+  "source_url": "https://www.savic.be/products/zeno-3-empire-flack-pack-small-animal-cage-silver",
+  "date_read": "2026-11-12"
+ }
+]
